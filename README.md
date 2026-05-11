@@ -113,6 +113,6 @@ Passionate about AI, Smart Energy Systems, and Software Engineering.
 
 ## 📺 Project Demo
 
-<video src="assets/Demo.mp4" controls width="100%"></video>
+<video src="Watt_Vision/assets/Demo.mp4" controls width="100%"></video>
 
 ---
