@@ -112,8 +112,8 @@ Passionate about AI, Smart Energy Systems, and Software Engineering.
 ---
 
 ## 📺 Project Demo
-
-[[<video src="Watt_Vision/assets/Demo.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/d7d5b387-dd01-4fb7-8afa-3ecbcb3e5f06)](https://github.com/user-attachments/assets/68675855-1b82-43c7-8709-294fd6525b33)
+[
+[[<video src="Watt_Vision/assets/Demo.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/d7d5b387-dd01-4fb7-8afa-3ecbcb3e5f06)](https://github.com/user-attachments/assets/68675855-1b82-43c7-8709-294fd6525b33)](https://github.com/user-attachments/assets/68675855-1b82-43c7-8709-294fd6525b33)
 
 ---
 
